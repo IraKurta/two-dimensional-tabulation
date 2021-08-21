@@ -1,0 +1,23 @@
+table
+{
+border:2px solid red ;
+color:#000080;
+margin-left:30%;
+}
+td
+{
+padding:15px;
+}
+td,th
+{
+border:2px solid black;
+}
+p{
+color:#000000;
+font-size:20px;
+text-align:center;
+font-family: Bookman;
+
+}
+
+
